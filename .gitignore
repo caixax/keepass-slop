@@ -1,1 +1,7 @@
 .claude/settings.local.json
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+keepass_report.txt
+*.kdbx
